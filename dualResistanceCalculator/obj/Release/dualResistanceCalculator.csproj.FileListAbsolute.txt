@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\dualResistanceCalculator\dualResistanceCalculator\bin\Release\dualResistanceCalculator.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\dualResistanceCalculator\dualResistanceCalculator\bin\Release\dualResistanceCalculator.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\dualResistanceCalculator\dualResistanceCalculator\bin\Release\dualResistanceCalculator.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\dualResistanceCalculator\dualResistanceCalculator\obj\Release\dualResistanceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\dualResistanceCalculator\dualResistanceCalculator\obj\Release\dualResistanceCalculator.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\dualResistanceCalculator\dualResistanceCalculator\obj\Release\dualResistanceCalculator.PopupForm.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\dualResistanceCalculator\dualResistanceCalculator\obj\Release\dualResistanceCalculator.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\dualResistanceCalculator\dualResistanceCalculator\obj\Release\dualResistanceCalculator.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\dualResistanceCalculator\dualResistanceCalculator\obj\Release\dualResistanceCalculator.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\dualResistanceCalculator\dualResistanceCalculator\obj\Release\dualResistanceCalculator.pdb
+D:\Documents\Visual Studio 2013\Projects\dualResistanceCalculator\dualResistanceCalculator\bin\Release\dualResistanceCalculator.exe.config
+D:\Documents\Visual Studio 2013\Projects\dualResistanceCalculator\dualResistanceCalculator\obj\Release\dualResistanceCalculator.exe
+D:\Documents\Visual Studio 2013\Projects\dualResistanceCalculator\dualResistanceCalculator\obj\Release\dualResistanceCalculator.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\dualResistanceCalculator\dualResistanceCalculator\obj\Release\dualResistanceCalculator.Form1.resources
+D:\Documents\Visual Studio 2013\Projects\dualResistanceCalculator\dualResistanceCalculator\obj\Release\dualResistanceCalculator.PopupForm.resources
+D:\Documents\Visual Studio 2013\Projects\dualResistanceCalculator\dualResistanceCalculator\obj\Release\dualResistanceCalculator.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\dualResistanceCalculator\dualResistanceCalculator\obj\Release\dualResistanceCalculator.csproj.GenerateResource.Cache
